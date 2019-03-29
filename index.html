@@ -186,8 +186,17 @@
 		      item: '<tr><td class="abr" scope="row"></td><td class="price"></td></tr>'
 		    };
 
-		  var itemList = new List('items', options, data.items);
-		  console.log(data);
+		    var itemData;
+		    $.each(data.items, function(index, value)
+		    {
+		    	if (value["price"] > 0)
+		    	{
+		    		itemData.push(value);
+		    	}
+		    });
+
+		  var itemList = new List('items', options, itemData);
+		  console.log(itemData);
 
 		});
 		$.getJSON( "https://raw.githubusercontent.com/hodldeeznuts/hodl.github.io/master/eventlist.json", function( data ) {
@@ -196,8 +205,18 @@
 		      item: '<tr><td class="abr" scope="row"></td><td class="price"></td><td class="karmatype"></td></tr>'
 		    };
 
-		  var itemList = new List('events', options, data.incitems);
-		  console.log(data);
+	      var eventData;
+	      $.each(data.incitems, function(index, value)
+	      {
+      		if (value["price"] > 0)
+      		{
+      			eventData.push(value);
+      		}
+
+	      });
+
+		  var itemList = new List('events', options, eventData);
+		  console.log(eventData);
 
 		});
 	</script>
