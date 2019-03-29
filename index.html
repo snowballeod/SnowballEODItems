@@ -9,16 +9,16 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
+    <title>Hodl's Item List</title>
     <script type="text/javascript">
     	var itemListURL = "https://raw.githubusercontent.com/Zenfrox/ZenfroxsList/master/itemlist.json";
     	var eventListURL = "https://raw.githubusercontent.com/Zenfrox/ZenfroxsList/master/eventlist.json";
     </script>
-    <title>Zenfrox's Item List</title>
   </head>
 	<body>
 
 	<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-      <a class="navbar-brand" href="#">Zenfrox</a>
+      <a class="navbar-brand" href="#">HodlHodl</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -29,7 +29,7 @@
             <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://www.twitch.tv/zenfrox">My Stream</a>
+            <a class="nav-link" href="https://www.twitch.tv/">Twitch</a>
           </li>
         </ul>
       </div>
@@ -39,7 +39,7 @@
 	    <div class="jumbotron">
 	        <div class="container">
 	          <h1 class="display-3">TwitchToolkit</h1>
-	          <p>TwitchToolkit is a mod written by Twitch.tv/hodlhodl that integrates storytelling decisions into chat votes, awards viewers coins for watching, and those coins can be spent on items/events in game. Check out Zenfrox at <a href="https://www.twitch.tv/zenfrox">twitch.tv/zenfrox</a></p>
+	          <p>TwitchToolkit is a mod written by Twitch.tv/hodlhodl that integrates storytelling decisions into chat votes, awards viewers coins for watching, and those coins can be spent on items/events in game.</p>
 	          	<ul class="list-group">
 					<li class="list-group-item">!bal - check balance and karma rate</li>
 					<li class="list-group-item">!buyevent - Syntax: !buyevent skillincrease - purchase an event</li>
@@ -200,8 +200,8 @@
 		    });
 
 		  var itemList = new List('items', options, itemData);
-
 		});
+
 		$.getJSON( eventListURL, function( data ) {
 		  var options = {
 		      valueNames: ['abr', 'price', 'karmatype'],
@@ -215,11 +215,9 @@
       		{
       			eventData.push(value);
       		}
-
 	      });
 
 		  var itemList = new List('events', options, eventData);
-
 		});
 	</script>
   </body>
