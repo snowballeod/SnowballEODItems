@@ -186,7 +186,7 @@
 		      item: '<tr><td class="abr" scope="row"></td><td class="price"></td></tr>'
 		    };
 
-		    var itemData;
+		    var itemData = [];
 		    $.each(data.items, function(index, value)
 		    {
 		    	if (value["price"] > 0)
@@ -205,7 +205,7 @@
 		      item: '<tr><td class="abr" scope="row"></td><td class="price"></td><td class="karmatype"></td></tr>'
 		    };
 
-	      var eventData;
+	      var eventData = [];
 	      $.each(data.incitems, function(index, value)
 	      {
       		if (value["price"] > 0)
