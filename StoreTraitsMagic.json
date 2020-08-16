@@ -1,0 +1,239 @@
+{
+  "traits": [
+    {
+      "abr": "Arcane Conduit",
+      "desc": "PAWN is abnormally receptive to the ebb and flow of mana, PAWN will gain mana 40% faster than normal but PAWN's maximum mana capacity is reduced by 20.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Mana Well",
+      "desc": "PAWN has an increased resistance to the ebb and flow of mana which allows PAWN to hold an additional 40 mana, but reduces PAWN's mana regeneration by 20%.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Boundless",
+      "desc": "PAWN excels at combat arts and is able to execute combat maneuvers 40% more frequently, however, PAWN's talent has fostered an arrogant attitude that reduces PAWN's experience gain by 25% and causes other fighters to dislike PAWN.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Unaffected By Death",
+      "desc": "PAWN has accepted that death is another part of life and doesn't get upset when learning about a dead ally or seeing one of the undead.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Undead",
+      "desc": "PAWN has been reanimated as an undead.",
+      "attrs": "MoveSpeed:-2, ComfyTemperatureMin:-66, ComfyTemperatureMax:58, ToxicSensitivity:-1, ImmunityGainSpeed:49, PainShockThreshold:0.9, NegotiationAbility:-0.7, WorkSpeedGlobal:-0.5",
+      "price": "4000"
+    },
+    {
+      "abr": "Magically Gifted",
+      "desc": "PAWN has a magical gift. PAWN can harness this gift to become a mage by studying the mysterious secrets within an arcane script.",
+      "attrs": "MoveSpeed:0.1, MedicalTendSpeed:0.1, ImmunityGainSpeed:0.1, PsychicSensitivity:0.2, GlobalLearningFactor:0.1",
+      "price": "4000"
+    },
+    {
+      "abr": "Wanderer",
+      "desc": "PAWN is a wanderer; an outcast, half-breed mage class frequently dubbed a hedge-mage. PAWN's carefree personality has kept PAWN's from developing class abilities. Instead, PAWN has learned to improve on a vast number of utility abilities that allow PAWN to adapt to any situation.\r\n          Wanderers prefer the open road and gain a mood boost for being in a caravan. Caravans with a wanderer will ignore the movement penalties of any world tile. However, their wanderlust will cause them to suffer a mood penalty for remaining at a colony for too long.",
+      "attrs": "MoveSpeed:0.2, WorkSpeedGlobal:-0.1, ImmunityGainSpeed:0.2, PsychicSensitivity:0.1, MentalBreakThreshold:-0.03, ComfyTemperatureMax:3, ComfyTemperatureMin:-3",
+      "price": "4000"
+    },
+    {
+      "abr": "Fire Mage",
+      "desc": "PAWN is attuned with the elements of fire.",
+      "attrs": "MoveSpeed:0.2, WorkSpeedGlobal:0.1, ImmunityGainSpeed:0.4, PsychicSensitivity:0.2, MentalBreakThreshold:0.06, ShootingAccuracyPawn:-5, ComfyTemperatureMax:15, ComfyTemperatureMin:7",
+      "price": "4000"
+    },
+    {
+      "abr": "Ice Mage",
+      "desc": "PAWN is attuned with the elements of water.",
+      "attrs": "MentalBreakThreshold:-0.1, ResearchSpeed:0.2, GlobalLearningFactor:0.1, WorkSpeedGlobal:-0.1, SocialImpact:-0.2, ComfyTemperatureMax:-7, ComfyTemperatureMin:-15",
+      "price": "4000"
+    },
+    {
+      "abr": "Lightning Mage",
+      "desc": "PAWN is attuned with the elements of lightning.",
+      "attrs": "MoveSpeed:0.2, WorkSpeedGlobal:0.1, MeleeDodgeChance:2, MiningSpeed:-0.4, MiningYield:-0.2",
+      "price": "4000"
+    },
+    {
+      "abr": "Arcane Mage",
+      "desc": "PAWN is attuned with arcane forces, interacting directly with raw arcane power to move matter and energy at will.",
+      "attrs": "ResearchSpeed:0.1, GlobalLearningFactor:0.2, MentalBreakThreshold:0.03, SocialImpact:0.1, NegotiationAbility:0.1, TradePriceImprovement:0.1, PsychicSensitivity:1, TameAnimalChance:-0.2, TrainAnimalChance:-0.2",
+      "price": "4000"
+    },
+    {
+      "abr": "Druid",
+      "desc": "PAWN is attuned with the forces of nature.",
+      "attrs": "ImmunityGainSpeed:0.15, ToxicSensitivity:-0.2, PlantWorkSpeed:0.25, PlantHarvestYield:0.25, SocialImpact:-0.1, NegotiationAbility:-0.1, TradePriceImprovement:-0.1, AnimalGatherYield:0.2",
+      "price": "4000"
+    },
+    {
+      "abr": "Paladin",
+      "desc": "PAWN has been bestowed with divine might and has sworn to uphold justice wherever PAWN stands.",
+      "attrs": "MoveSpeed:0.1, ImmunityGainSpeed:0.2, MentalBreakThreshold:-0.02, PainShockThreshold:0.1, PsychicSensitivity:-0.2, GlobalLearningFactor:-0.15",
+      "price": "4000"
+    },
+    {
+      "abr": "Summoner",
+      "desc": "PAWN is able to summon beings and materialize objects from other planes of existence.",
+      "attrs": "MoveSpeed:0.1, ToxicSensitivity:0.1, ComfyTemperatureMin:-8, ComfyTemperatureMax:8, SocialImpact:0.1",
+      "price": "4000"
+    },
+    {
+      "abr": "Necromancer",
+      "desc": "PAWN is attuned with the forces of death.",
+      "attrs": "MoveSpeed:-0.3, ComfyTemperatureMin:-20, ImmunityGainSpeed:0.4, ToxicSensitivity:-0.4, MentalBreakThreshold:-0.1, GlobalLearningFactor:0.4, TradePriceImprovement:-0.5, NegotiationAbility:-0.25",
+      "price": "4000"
+    },
+    {
+      "abr": "Lich",
+      "desc": "PAWN has transformed into a lich, forsaking life in exchange for an power and an immortal existence, choosing to employ undead for menial tasks.",
+      "attrs": "MoveSpeed:-2, ComfyTemperatureMin:-42, ComfyTemperatureMax:46, ImmunityGainSpeed:1, ToxicSensitivity:-1, MentalBreakThreshold:-0.2, GlobalLearningFactor:-0.4, TradePriceImprovement:-0.5, NegotiationAbility:-0.5, WorkSpeedGlobal:-0.75",
+      "price": "4000"
+    },
+    {
+      "abr": "Priest",
+      "desc": "PAWN is attuned with the forces of life and healing and has taken a vow against harming others.",
+      "attrs": "MoveSpeed:0.15, ImmunityGainSpeed:0.2, MedicalSurgerySuccessChance:0.25, MedicalTendQuality:0.25, MedicalOperationSpeed:0.25, MedicalTendSpeed:0.25, PainShockThreshold:-0.1",
+      "price": "4000"
+    },
+    {
+      "abr": "Entertainer",
+      "desc": "PAWN is a natural entertainer, able to lighten the mood and lift the spirits of everyone around PAWN.",
+      "attrs": "SocialImpact:0.1, NegotiationAbility:0.2, TradePriceImprovement:0.1, PainShockThreshold:-0.1, CarryingCapacity:-10, WorkSpeedGlobal:-0.1",
+      "price": "4000"
+    },
+    {
+      "abr": "Succubus",
+      "desc": "PAWN has a strange genetic strain that grants her enhanced physical attributes. She is also extremely attractive with an exotic facial structure that captures the eye. A succubus is more likely to exploit her physical advantages and have others do her work for her. PAWN's succubus charm has its disadvantages and can cause some to become jealous and even despise PAWN.",
+      "attrs": "MoveSpeed:0.2, WorkSpeedGlobal:-0.2, ImmunityGainSpeed:0.15, TradePriceImprovement:0.1, NegotiationAbility:0.2, CarryingCapacity:-20, GlobalLearningFactor:-0.2, MeleeDodgeChance:5, ResearchSpeed:-0.2, AimingDelayFactor:-0.1, MeleeHitChance:5, ComfyTemperatureMax:25, ComfyTemperatureMin:5",
+      "price": "4000"
+    },
+    {
+      "abr": "Warlock",
+      "desc": "PAWN is a Warlock - able to manifest physical and demonic forces using his unique access to arcane power. The warlock shares the same genetic mixture as a succubus, but as a male, PAWN is affected with mental enhancements that include clairvoyance and telekineses. The warlock can occasionally affect the outcome of a social interaction using their mental capabilities, regardless of how the interaction actually occurred.",
+      "attrs": "MoveSpeed:-0.1, WorkSpeedGlobal:-0.2, ImmunityGainSpeed:-0.08, SocialImpact:0.2, CarryingCapacity:-20, GlobalLearningFactor:0.25, MeleeDodgeChance:-5, ResearchSpeed:0.25, MeleeHitChance:-5, PainShockThreshold:-0.15, PsychicSensitivity:0.4, ComfyTemperatureMax:10, ComfyTemperatureMin:-10",
+      "price": "4000"
+    },
+    {
+      "abr": "Geomancer",
+      "desc": "PAWN is attuned with the earth and natural order, drawing power from the physical realm and intertwining it with arcane energy. PAWN is capable of reinforcing physical elements, and bending them, as PAWN needs.",
+      "attrs": "MoveSpeed:-0.1, ToxicSensitivity:-0.3, ComfyTemperatureMin:-12, ComfyTemperatureMax:12, MeleeDodgeChance:-5, MiningSpeed:0.25, MiningYield:0.25, CarryingCapacity:20, WorkSpeedGlobal:-0.2, MentalBreakThreshold:-0.15, GlobalLearningFactor:-0.2",
+      "price": "4000"
+    },
+    {
+      "abr": "Technomancer",
+      "desc": "PAWN has learned to see magic and science as two parts of the same force and is able to use arcane power to interface directly with components of technology. PAWN is capable of manipulating objects with advanced mechanics, electronics, or computing it to achieve PAWN's goals, but has difficulty interacting with biological systems.",
+      "attrs": "SocialImpact:-0.3, NegotiationAbility:-0.2, TradePriceImprovement:-0.2, TameAnimalChance:-0.2, TrainAnimalChance:-0.2, PlantWorkSpeed:-0.2, PlantHarvestYield:-0.2, WorkSpeedGlobal:0.2, GlobalLearningFactor:0.2, ImmunityGainSpeed:-0.06, ResearchSpeed:0.25, PsychicSensitivity:0.2, ShootingAccuracyPawn:5",
+      "price": "4000"
+    },
+    {
+      "abr": "Blood Mage",
+      "desc": "PAWN is a blood mage and has consigned to the dark art of manipulating the life blood of living things as a means of increasing PAWN's power.\\n\\nAs a blood mage, PAWN has learned to control the life force within and command it to PAWN's will. PAWN's connection to life makes it easier to associate with other living things, but doesn't appreciate effort without immediate results.",
+      "attrs": "SocialImpact:0.2, NegotiationAbility:0.15, TradePriceImprovement:0.1, TameAnimalChance:0.15, TrainAnimalChance:0.1, GlobalLearningFactor:-0.2, ResearchSpeed:-0.3, ImmunityGainSpeed:0.1",
+      "price": "4000"
+    },
+    {
+      "abr": "Enchanter",
+      "desc": "PAWN is an enchanter, attuned to the composition of matter and materials. PAWN can manipulate matter to PAWN's will, frequently in unnatural ways, and PAWN's powers of transmutation can be permanent when sufficient effort is applied.",
+      "attrs": "TameAnimalChance:-0.15, TrainAnimalChance:-0.15, GlobalLearningFactor:0.1, WorkSpeedGlobal:0.1, ComfyTemperatureMin:3, ComfyTemperatureMax:-3, ToxicSensitivity:0.1, ImmunityGainSpeed:-0.03, PainShockThreshold:-0.1",
+      "price": "4000"
+    },
+    {
+      "abr": "Chronomancer",
+      "desc": "PAWN is a chronomancer. Through arcane sight, PAWN is able to view reality as it once was and as it could be, and can manipulate objects between those realities.",
+      "attrs": "GlobalLearningFactor:0.25, ResearchSpeed:0.4, WorkSpeedGlobal:-0.2, PainShockThreshold:-0.1, PsychicSensitivity:0.1",
+      "price": "4000"
+    },
+    {
+      "abr": "Chaos Mage",
+      "desc": "PAWN has rejected all predefined magic paths and refuses to attribute objective reality in PAWN's search for power; there are no truths, all magic is permitted. This tradition has enabled PAWN to learn any type of magic, although PAWN will never master any.",
+      "attrs": "GlobalLearningFactor:0.25, ResearchSpeed:-0.2, WorkSpeedGlobal:-0.1, PsychicSensitivity:0.5, ImmunityGainSpeed:-0.05",
+      "price": "4000"
+    },
+    {
+      "abr": "Shadow",
+      "desc": "PAWN is a half-breed demon with an affinity for shadow magic. PAWN has developed PAWN's unique talents through combat training and physical conditioning making PAWN the perfect assassin.",
+      "attrs": "PsychicSensitivity:0.25, GlobalLearningFactor:0.1, PainShockThreshold:0.2, MoveSpeed:0.25, MeleeHitChance:10, MeleeDodgeChance:10, ShootingAccuracyPawn:-25, WorkSpeedGlobal:-0.1, ToxicSensitivity:-0.2",
+      "price": "4000"
+    },
+    {
+      "abr": "Physically Adept",
+      "desc": "PAWN is physically adept and has potential to learn special combat forms.",
+      "attrs": "MoveSpeed:0.2, WorkSpeedGlobal:0.2, ImmunityGainSpeed:0.2, PsychicSensitivity:-0.2, GlobalLearningFactor:-0.2",
+      "price": "4000"
+    },
+    {
+      "abr": "Wayfarer",
+      "desc": "PAWN is a wayfarer; an self-disciplined fighter that excels at tricks and dirty fighting. PAWN's carefree personality has kept PAWN from developing class abilities. Instead, PAWN has learned to improve a vast number of utility abilities that allow PAWN to adapt to any situation.\r\n          Wayfarers prefer the open road and will gain a mood boost for being in a caravan, and any caravan with a wayfarer will travel 25% faster. However, wayfarers will suffer a mood penalty if they remain at colony for too long.",
+      "attrs": "MoveSpeed:0.2, WorkSpeedGlobal:-0.1, ImmunityGainSpeed:0.2, PsychicSensitivity:-0.1, MentalBreakThreshold:-0.03, ComfyTemperatureMax:3, ComfyTemperatureMin:-3",
+      "price": "4000"
+    },
+    {
+      "abr": "Gladiator",
+      "desc": "PAWN has learned how to train the Gladiator combat style.",
+      "attrs": "MoveSpeed:0.2, WorkSpeedGlobal:0.2, ImmunityGainSpeed:0.2, PsychicSensitivity:-0.6, MentalBreakThreshold:-0.03, GlobalLearningFactor:-0.3, MeleeDodgeChance:4, MiningSpeed:0.2, MiningYield:0.2, PlantWorkSpeed:-0.25, PlantHarvestYield:-0.2, ResearchSpeed:-0.25",
+      "price": "4000"
+    },
+    {
+      "abr": "Woodsman",
+      "desc": "PAWN is a trained woodsman; preferring the silence and lethality of a bow and armed with field-craft and cunning, PAWN is prepared to defend PAWN's land from invaders.",
+      "attrs": "MoveSpeed:0.15, ImmunityGainSpeed:0.2, ComfyTemperatureMax:10, ComfyTemperatureMin:-10, AimingDelayFactor:-0.15, ToxicSensitivity:-0.1, ButcheryFleshSpeed:0.05, SmeltingSpeed:-0.1, ConstructionSpeed:-0.1, TameAnimalChance:0.1, TrainAnimalChance:0.1",
+      "price": "4000"
+    },
+    {
+      "abr": "Sharpshooter",
+      "desc": "PAWN has trained to become a sniper, skilled in the economy and accuracy of long range, small arms combat. Training to become a sniper has caused some colonists to be uncomfortable around PAWN, not that PAWN cares.",
+      "attrs": "MoveSpeed:0.1, AimingDelayFactor:-0.1, ShootingAccuracyPawn:2, ResearchSpeed:-0.1, WorkSpeedGlobal:-0.1, TameAnimalChance:-0.1, TrainAnimalChance:-0.1",
+      "price": "4000"
+    },
+    {
+      "abr": "Bladesman",
+      "desc": "PAWN is training to become a master of the blade and excels at fighting in melee combat.",
+      "attrs": "MoveSpeed:0.15, MentalBreakThreshold:-0.03, MeleeHitChance:3, MeleeDodgeChance:5, ShootingAccuracyPawn:-20, WorkSpeedGlobal:-0.1",
+      "price": "4000"
+    },
+    {
+      "abr": "Faceless",
+      "desc": "PAWN is a master of disguise and imitation; able to manipulate and capture the muscle and mental actions of another and release it as their own.",
+      "attrs": "MoveSpeed:0.15, WorkSpeedGlobal:0.1, ImmunityGainSpeed:0.1, PsychicSensitivity:0.5, MentalBreakThreshold:0.1, GlobalLearningFactor:0.2, MeleeDodgeChance:4, MiningSpeed:-0.1, PlantWorkSpeed:-0.1, ResearchSpeed:-0.4",
+      "price": "4000"
+    },
+    {
+      "abr": "Psionic",
+      "desc": "PAWN is a Psionic - able to manifest mental willpower into raw energy without the use of a psychic amplifier. PAWN is able to project psionic energy but finds it easier and more efficient to apply it as an extension and augmentation of PAWN's body. For this reason, PAWN prefers to be free of encumbering weapons.\r\n          PAWN has become less social since developing psionic powers since PAWN can perform any task on PAWN's own and can do without the jealousy of others.\r\n          *The regeneration rate of psionic energy is based on psychic sensitivity - reducing sensitivity to 0 will prevent psionic energy from regenerating.",
+      "attrs": "SocialImpact:-0.25, NegotiationAbility:-0.2, TradePriceImprovement:-0.1, CarryingCapacity:20, MeleeDodgeChance:10, MeleeHitChance:10, PainShockThreshold:0.2, PsychicSensitivity:0.2",
+      "price": "4000"
+    },
+    {
+      "abr": "Death Knight",
+      "desc": "PAWN is a Death Knight - harbinger of doom and a representative of the ever approaching inevitability of death and decay. PAWN's solemn attitude makes most pawns uneasy and even fewer approve of PAWN's methods.",
+      "attrs": "SocialImpact:-0.25, NegotiationAbility:-0.25, CarryingCapacity:30, PainShockThreshold:0.3, PsychicSensitivity:-0.25",
+      "price": "4000"
+    },
+    {
+      "abr": "Monk",
+      "desc": "PAWN is a Monk, dedicated to mastering Chi - the energy that connects all life in the universe. PAWN harnesses Chi to create magical effects and exceed PAWN's physical capabilities. PAWN is also able to disrupt the Chi in others, affecting their command over spells and abilities.",
+      "attrs": "MeleeDodgeChance:5, MeleeHitChance:5, CarryingCapacity:20, PainShockThreshold:0.1, SocialImpact:-0.25, NegotiationAbility:-0.25, PsychicSensitivity:-0.8, TradePriceImprovement:-0.2",
+      "price": "4000"
+    },
+    {
+      "abr": "Commander",
+      "desc": "As a Commander, PAWN exhibits a charismatic personality and stalwart presence that makes other pawns want to follow PAWN's lead. Commander's utilize the weight of their presence to inspire nearby pawns, and when that's not enough, they can issue orders that drive their followers to victory. Because PAWN is used to everyone doing PAWN's bidding, PAWN considers menial tasks beneath PAWN's status, and is generally a lackluster worker.",
+      "attrs": "SocialImpact:0.4, NegotiationAbility:0.3, CarryingCapacity:-20, WorkSpeedGlobal:-0.3, ResearchSpeed:-0.4",
+      "price": "4000"
+    },
+    {
+      "abr": "Super Soldier",
+      "desc": "PAWN is a highly trained Soldier, specializing in pistol, shotgun, or rifle weapons. PAWN's weapon specialization is augmented by a standard set of combat training. Super Soldiers are trained to be aggressive and consider violence the natural solution to any argument.",
+      "attrs": "ImmunityGainSpeed:0.05, MoveSpeed:0.1, CarryingCapacity:20, PainShockThreshold:0.25, AimingDelayFactor:-0.15, SocialImpact:-0.25, PsychicSensitivity:-0.25, WorkSpeedGlobal:-0.1, GlobalLearningFactor:-0.2",
+      "price": "4000"
+    }
+  ],
+  "total": 39
+}

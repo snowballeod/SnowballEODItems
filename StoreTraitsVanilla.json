@@ -1,0 +1,395 @@
+{
+  "traits": [
+    {
+      "abr": "Nudist",
+      "desc": "PAWN enjoys the feeling of freedom that comes from being nude. PAWN can handle clothing, but will be happier without it.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Bloodlust",
+      "desc": "PAWN gets a rush from hurting people, and never minds the sight of blood or death. PAWN is four times as likely to start a social fight as others.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Kind",
+      "desc": "PAWN is exceptionally kind. PAWN has a special way of using kind words to brighten someone's day. PAWN never insults others, and never judges people by their appearance.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Psychopath",
+      "desc": "PAWN has no empathy. The suffering of others doesn't bother PAWN at all. PAWN doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects PAWN. PAWN also feels no mood boost from socializing.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Cannibal",
+      "desc": "PAWN was taught that eating human meat is wrong and horrible. But one time, long ago, PAWN tried it... and PAWN liked it.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Abrasive",
+      "desc": "PAWN always says exactly what's on PAWN's mind, especially if it's bugging PAWN. That tends to rub people the wrong way.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Too Smart",
+      "desc": "PAWN is too smart for PAWN's own good. PAWN learns everything much faster than everyone, but can be quite eccentric.",
+      "attrs": "GlobalLearningFactor:0.75, MentalBreakThreshold:0.12",
+      "price": "4000"
+    },
+    {
+      "abr": "Brawler",
+      "desc": "PAWN likes to fight up close and personal. PAWN's accuracy is greatly increased in melee combat, but PAWN'll be very unhappy if asked to carry a ranged weapon.",
+      "attrs": "MeleeHitChance:4",
+      "price": "4000"
+    },
+    {
+      "abr": "Masochist",
+      "desc": "For PAWN, there's something exciting about getting hurt. PAWN doesn't know why, PAWN's just wired differently.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Night Owl",
+      "desc": "PAWN likes to be up during the night, and sleep during the day.\\n\\nPAWN gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\\n\\nPAWN doesn't get a mood penalty for being in the dark.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Greedy",
+      "desc": "PAWN needs a really impressive bedroom. PAWN gets a mood loss if PAWN doesn't get what PAWN wants.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Jealous",
+      "desc": "For PAWN, it's degrading to have a less impressive bedroom than someone else. PAWN gets a mood loss if any colonist has a more impressive bedroom.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Ascetic",
+      "desc": "PAWN has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. PAWN will become unhappy if if PAWN has a bedroom that's too impressive. PAWN also dislikes fancy food and prefers to eat raw. PAWN never judges others by their appearance.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Gay",
+      "desc": "PAWN is romantically attracted to people of PAWN's own gender.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Bisexual",
+      "desc": "PAWN is romantically attracted to both men and women.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Asexual",
+      "desc": "PAWN has no sexual attraction to anyone at all.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Annoying Voice",
+      "desc": "PAWN's voice has a particularly grating, nasal quality to it, and PAWN tends to talk in barked, garbled phrases. This predisposes others to dislike PAWN.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Creepy Breathing",
+      "desc": "PAWN breathes heavily all the time, and sweats constantly. People find it creepy.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Pyromaniac",
+      "desc": "PAWN loves fire. PAWN will never extinguish fires. To relieve stress, PAWN will occasionally go on random fire starting sprees. This happens more often if PAWN's mood is low.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Wimp",
+      "desc": "PAWN is weak and cowardly. Even a little pain will immobilize PAWN.",
+      "attrs": "PainShockThreshold:-0.6",
+      "price": "4000"
+    },
+    {
+      "abr": "Nimble",
+      "desc": "PAWN has remarkable kinesthetic intelligence. PAWN seems to dance around danger with preternatural grace.",
+      "attrs": "MeleeDodgeChance:15",
+      "price": "4000"
+    },
+    {
+      "abr": "Fast Learner",
+      "desc": "PAWN has a knack for learning. PAWN picks things up much faster than others.",
+      "attrs": "GlobalLearningFactor:0.75",
+      "price": "4000"
+    },
+    {
+      "abr": "Slow Learner",
+      "desc": "PAWN is slow on the uptake. PAWN learns much slower than others.",
+      "attrs": "GlobalLearningFactor:-0.75",
+      "price": "4000"
+    },
+    {
+      "abr": "Undergrounder",
+      "desc": "PAWN has no need to experience the outdoors or light. PAWN will never feel cooped up or get cabin fever, no matter how long PAWN stays inside, and is not bothered by darkness.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Transhumanist",
+      "desc": "PAWN feels limited in PAWN's feeble human body. PAWN often dreams of being enhanced by artificial body parts.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Body Purist",
+      "desc": "PAWN believes the human body is limited for a reason. To PAWN, artificial body parts are unethical and disgusting.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Misandrist",
+      "desc": "PAWN really dislikes and distrusts men.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Misogynist",
+      "desc": "PAWN really dislikes and distrusts women.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Great Memory",
+      "desc": "PAWN has a fantastic memory for detail. PAWN will lose unused skills at half the rate of other people.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Tough",
+      "desc": "PAWN has thick skin, dense flesh, and durable bones. PAWN takes much less damage than other people from the same blows. PAWN is extremely hard to kill.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Tortured Artist",
+      "desc": "PAWN feels alienated and misunderstood by other human beings. PAWN will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Gourmand",
+      "desc": "PAWN's life revolves around food. PAWN gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Quick Sleeper",
+      "desc": "PAWN doesn't need as much sleep as the average person. Whether PAWN's sleeping on a bed or on the ground, PAWN will be fully rested in about two thirds the usual time.",
+      "attrs": "RestRateMultiplier:0.5",
+      "price": "4000"
+    },
+    {
+      "abr": "Slowpoke",
+      "desc": "PAWN is always falling behind the group whenever PAWN goes anywhere.",
+      "attrs": "MoveSpeed:-0.2",
+      "price": "4000"
+    },
+    {
+      "abr": "Fast Walker",
+      "desc": "PAWN likes to be where PAWN's going. PAWN walks quicker than most people.",
+      "attrs": "MoveSpeed:0.2",
+      "price": "4000"
+    },
+    {
+      "abr": "Jogger",
+      "desc": "PAWN always moves with a sense of urgency - so much so that others often fail to keep up.",
+      "attrs": "MoveSpeed:0.4",
+      "price": "4000"
+    },
+    {
+      "abr": "Chemical Fascination",
+      "desc": "PAWN is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. PAWN will ignore directives to not use recreational drugs, and will consume more than a normal person.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Chemical Interest",
+      "desc": "PAWN has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. PAWN will ignore directives to not use recreational drugs, and will consume more than a normal person.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Teetotaler",
+      "desc": "PAWN abhors the idea of gaining pleasure from chemicals. PAWN strictly avoids alcohol and recreational drugs.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Sanguine",
+      "desc": "PAWN is just naturally upbeat about PAWN's situation, pretty much all the time, no matter what it is.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Optimist",
+      "desc": "PAWN is naturally optimistic about life. It's hard to get PAWN down.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Pessimist",
+      "desc": "PAWN tends to look on the bad side of life.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Depressive",
+      "desc": "PAWN is perenially unhappy. PAWN has trouble sustaining a good mood even when everything is fine.",
+      "attrs": "",
+      "price": "4000"
+    },
+    {
+      "abr": "Iron-Willed",
+      "desc": "PAWN's will is an iron shield. PAWN keeps going through thick and thin, when others broke down long before.",
+      "attrs": "MentalBreakThreshold:-0.18",
+      "price": "4000"
+    },
+    {
+      "abr": "Steadfast",
+      "desc": "PAWN is mentally tough and won't break down under stresses that would crack most people.",
+      "attrs": "MentalBreakThreshold:-0.09",
+      "price": "4000"
+    },
+    {
+      "abr": "Nervous",
+      "desc": "PAWN tends to crack under pressure.",
+      "attrs": "MentalBreakThreshold:0.08",
+      "price": "4000"
+    },
+    {
+      "abr": "Volatile",
+      "desc": "PAWN is on a hair-trigger all the time. PAWN is the first to break in any tough situation.",
+      "attrs": "MentalBreakThreshold:0.15",
+      "price": "4000"
+    },
+    {
+      "abr": "Neurotic",
+      "desc": "PAWN likes to have things squared away. PAWN will work harder than most to attain this state of affairs, but PAWN's nerves can get the better of PAWN.",
+      "attrs": "WorkSpeedGlobal:0.2, MentalBreakThreshold:0.08",
+      "price": "4000"
+    },
+    {
+      "abr": "Very Neurotic",
+      "desc": "PAWN feels constantly nervous about everything that has to get done. PAWN will work extremely hard to attain this state of affairs, but PAWN's nerves can easily get the better of PAWN.",
+      "attrs": "WorkSpeedGlobal:0.4, MentalBreakThreshold:0.14",
+      "price": "4000"
+    },
+    {
+      "abr": "Industrious",
+      "desc": "PAWN has an easy time staying on-task and focused, and gets things done much faster than the average person.",
+      "attrs": "WorkSpeedGlobal:0.35",
+      "price": "4000"
+    },
+    {
+      "abr": "Hard Worker",
+      "desc": "PAWN is a natural hard worker and will finish tasks faster than most.",
+      "attrs": "WorkSpeedGlobal:0.2",
+      "price": "4000"
+    },
+    {
+      "abr": "Lazy",
+      "desc": "PAWN is a little bit lazy.",
+      "attrs": "WorkSpeedGlobal:-0.2",
+      "price": "4000"
+    },
+    {
+      "abr": "Slothful",
+      "desc": "PAWN loves idleness and hates anything productive. PAWN moves slowly and rarely stays focused on a task.",
+      "attrs": "WorkSpeedGlobal:-0.35",
+      "price": "4000"
+    },
+    {
+      "abr": "Psychically Hypersensitive",
+      "desc": "PAWN's mind is like a psychic tuning fork. PAWN is extremely sensitive to psychic phenomena.",
+      "attrs": "PsychicSensitivity:0.8",
+      "price": "4000"
+    },
+    {
+      "abr": "Psychically Sensitive",
+      "desc": "PAWN's mind is unusually sensitive to psychic phenomena.",
+      "attrs": "PsychicSensitivity:0.4",
+      "price": "4000"
+    },
+    {
+      "abr": "Psychically Dull",
+      "desc": "PAWN's mind is psychically out of tune with others. PAWN isn't as affected by psychic phenomena.",
+      "attrs": "PsychicSensitivity:-0.5",
+      "price": "4000"
+    },
+    {
+      "abr": "Psychically Deaf",
+      "desc": "PAWN's mind works on a psychic frequency different from everyone else. PAWN just isn't affected by psychic phenomena.",
+      "attrs": "PsychicSensitivity:-1",
+      "price": "4000"
+    },
+    {
+      "abr": "Careful Shooter",
+      "desc": "PAWN takes more time to aim when shooting. PAWN shoots less often than others, but with more accuracy.",
+      "attrs": "AimingDelayFactor:0.25, ShootingAccuracyPawn:5",
+      "price": "4000"
+    },
+    {
+      "abr": "Trigger-Happy",
+      "desc": "Pew! Pew! Pew! PAWN just likes pulling the trigger. PAWN shoots faster than others, but less accurately.",
+      "attrs": "AimingDelayFactor:-0.5, ShootingAccuracyPawn:-5",
+      "price": "4000"
+    },
+    {
+      "abr": "Beautiful",
+      "desc": "PAWN is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to PAWN before PAWN even opens PAWN's mouth.",
+      "attrs": "PawnBeauty:2",
+      "price": "4000"
+    },
+    {
+      "abr": "Pretty",
+      "desc": "PAWN has a pretty face, which predisposes people to like PAWN.",
+      "attrs": "PawnBeauty:1",
+      "price": "4000"
+    },
+    {
+      "abr": "Ugly",
+      "desc": "PAWN is somewhat ugly. This subtly repels others during social interactions.",
+      "attrs": "PawnBeauty:-1",
+      "price": "4000"
+    },
+    {
+      "abr": "Staggeringly Ugly",
+      "desc": "PAWN is staggeringly ugly. PAWN's face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at PAWN while conversing.",
+      "attrs": "PawnBeauty:-2",
+      "price": "4000"
+    },
+    {
+      "abr": "Super-Immune",
+      "desc": "PAWN has a naturally powerful immune system. PAWN will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
+      "attrs": "ImmunityGainSpeed:0.3",
+      "price": "4000"
+    },
+    {
+      "abr": "Sickly",
+      "desc": "PAWN has an awful immune system. PAWN gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
+      "attrs": "",
+      "price": "4000"
+    }
+  ],
+  "total": 65
+}
