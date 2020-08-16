@@ -106,7 +106,7 @@
       "abr": "Entertainer",
       "desc": "PAWN is a natural entertainer, able to lighten the mood and lift the spirits of everyone around PAWN.",
       "attrs": "SocialImpact:0.1, NegotiationAbility:0.2, TradePriceImprovement:0.1, PainShockThreshold:-0.1, CarryingCapacity:-10, WorkSpeedGlobal:-0.1",
-      "price": "4000"
+      "price": "-10"
     },
     {
       "abr": "Succubus",
@@ -130,7 +130,7 @@
       "abr": "Technomancer",
       "desc": "PAWN has learned to see magic and science as two parts of the same force and is able to use arcane power to interface directly with components of technology. PAWN is capable of manipulating objects with advanced mechanics, electronics, or computing it to achieve PAWN's goals, but has difficulty interacting with biological systems.",
       "attrs": "SocialImpact:-0.3, NegotiationAbility:-0.2, TradePriceImprovement:-0.2, TameAnimalChance:-0.2, TrainAnimalChance:-0.2, PlantWorkSpeed:-0.2, PlantHarvestYield:-0.2, WorkSpeedGlobal:0.2, GlobalLearningFactor:0.2, ImmunityGainSpeed:-0.06, ResearchSpeed:0.25, PsychicSensitivity:0.2, ShootingAccuracyPawn:5",
-      "price": "4000"
+      "price": "-10"
     },
     {
       "abr": "Blood Mage",
@@ -160,7 +160,7 @@
       "abr": "Shadow",
       "desc": "PAWN is a half-breed demon with an affinity for shadow magic. PAWN has developed PAWN's unique talents through combat training and physical conditioning making PAWN the perfect assassin.",
       "attrs": "PsychicSensitivity:0.25, GlobalLearningFactor:0.1, PainShockThreshold:0.2, MoveSpeed:0.25, MeleeHitChance:10, MeleeDodgeChance:10, ShootingAccuracyPawn:-25, WorkSpeedGlobal:-0.1, ToxicSensitivity:-0.2",
-      "price": "4000"
+      "price": "-10"
     },
     {
       "abr": "Physically Adept",
@@ -220,13 +220,13 @@
       "abr": "Monk",
       "desc": "PAWN is a Monk, dedicated to mastering Chi - the energy that connects all life in the universe. PAWN harnesses Chi to create magical effects and exceed PAWN's physical capabilities. PAWN is also able to disrupt the Chi in others, affecting their command over spells and abilities.",
       "attrs": "MeleeDodgeChance:5, MeleeHitChance:5, CarryingCapacity:20, PainShockThreshold:0.1, SocialImpact:-0.25, NegotiationAbility:-0.25, PsychicSensitivity:-0.8, TradePriceImprovement:-0.2",
-      "price": "4000"
+      "price": "-10"
     },
     {
       "abr": "Commander",
       "desc": "As a Commander, PAWN exhibits a charismatic personality and stalwart presence that makes other pawns want to follow PAWN's lead. Commander's utilize the weight of their presence to inspire nearby pawns, and when that's not enough, they can issue orders that drive their followers to victory. Because PAWN is used to everyone doing PAWN's bidding, PAWN considers menial tasks beneath PAWN's status, and is generally a lackluster worker.",
       "attrs": "SocialImpact:0.4, NegotiationAbility:0.3, CarryingCapacity:-20, WorkSpeedGlobal:-0.3, ResearchSpeed:-0.4",
-      "price": "4000"
+      "price": "-10"
     },
     {
       "abr": "Super Soldier",
