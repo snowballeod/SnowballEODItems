@@ -70,10 +70,10 @@
                                     <button class="btn btn-success" ng-class="{'active': (selected == '2')}" ng-click='selected=2'>
                                         Events
                                     </button>
-                                    <button class="btn btn-success" ng-class="{'active': (selected == '3')}" ng-click='selected=3'>
+                                    <button class="btn btn-success traitsVanillaBtn" ng-class="{'active': (selected == '3')}" ng-click='selected=3'>
                                         Vanilla Traits
                                     </button>
-                                    <button class="btn btn-success" ng-class="{'active': (selected == '4')}" ng-click='selected=4'>
+                                    <button class="btn btn-success traitsMagiceBtn" ng-class="{'active': (selected == '4')}" ng-click='selected=4'>
                                         Magic Traits
                                     </button>
                                 </div>
@@ -266,6 +266,30 @@
             position: relative;
             top: -4px;
             right: -5px;
+        }
+
+        .traitsVanillaBtn {
+            background-color: #ff5500;
+            border-color: #ff5500;
+        }
+
+        .traitsVanillaBtn:hover,
+        .traitsVanillaBtn.active,
+        .traitsVanillaBtn:active {
+            background-color: #cc3d00 !important;
+            border-color: #cc3d00 !important;
+        }
+
+        .traitsMagiceBtn {
+            background-color: #a103fc;
+            border-color: #a103fc;
+        }
+
+        .traitsMagiceBtn:hover,
+        .traitsMagiceBtn.active,
+        .traitsMagiceBtn:active {
+            background-color: #8204cc !important;
+            border-color: #8204cc !important;
         }
     </style>
     <script type="text/javascript">
