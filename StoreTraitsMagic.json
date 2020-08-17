@@ -34,7 +34,7 @@
       "abr": "Magically Gifted",
       "desc": "PAWN has a magical gift. PAWN can harness this gift to become a mage by studying the mysterious secrets within an arcane script.",
       "attrs": "MoveSpeed:0.1, MedicalTendSpeed:0.1, ImmunityGainSpeed:0.1, PsychicSensitivity:0.2, GlobalLearningFactor:0.1",
-      "price": "4000"
+      "price": "-10"
     },
     {
       "abr": "Wanderer",
@@ -166,7 +166,7 @@
       "abr": "Physically Adept",
       "desc": "PAWN is physically adept and has potential to learn special combat forms.",
       "attrs": "MoveSpeed:0.2, WorkSpeedGlobal:0.2, ImmunityGainSpeed:0.2, PsychicSensitivity:-0.2, GlobalLearningFactor:-0.2",
-      "price": "4000"
+      "price": "-10"
     },
     {
       "abr": "Wayfarer",
