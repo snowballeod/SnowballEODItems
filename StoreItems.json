@@ -2462,19 +2462,19 @@
     },
     {
       "abr": "alpacameat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Alpaca"
     },
     {
       "abr": "alphabeavermeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Alphabeaver"
     },
     {
       "abr": "bearmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Bear_Grizzly"
     },
@@ -2486,67 +2486,67 @@
     },
     {
       "abr": "birdmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Cassowary"
     },
     {
       "abr": "bisonmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Bison"
     },
     {
       "abr": "boomalopemeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Boomalope"
     },
     {
       "abr": "boomratmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Boomrat"
     },
     {
       "abr": "capybarameat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Capybara"
     },
     {
       "abr": "cariboumeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Caribou"
     },
     {
       "abr": "catmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Cat"
     },
     {
       "abr": "chickenmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Chicken"
     },
     {
       "abr": "chinchillameat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Chinchilla"
     },
     {
       "abr": "cobrameat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Cobra"
     },
     {
       "abr": "cougarmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Cougar"
     },
@@ -2558,7 +2558,7 @@
     },
     {
       "abr": "donkeymeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Donkey"
     },
@@ -2570,13 +2570,13 @@
     },
     {
       "abr": "dromedarymeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Dromedary"
     },
     {
       "abr": "duckmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Duck"
     },
@@ -2654,25 +2654,25 @@
     },
     {
       "abr": "elephantmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Elephant"
     },
     {
       "abr": "elkmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Elk"
     },
     {
       "abr": "foxmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Fox_Fennec"
     },
     {
       "abr": "gazellemeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Gazelle"
     },
@@ -2684,25 +2684,25 @@
     },
     {
       "abr": "goatmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Goat"
     },
     {
       "abr": "guineapigmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_GuineaPig"
     },
     {
       "abr": "haremeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Hare"
     },
     {
       "abr": "horsemeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Horse"
     },
@@ -2714,19 +2714,19 @@
     },
     {
       "abr": "huskymeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Husky"
     },
     {
       "abr": "ibexmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Ibex"
     },
     {
       "abr": "iguanameat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Iguana"
     },
@@ -2738,31 +2738,31 @@
     },
     {
       "abr": "labradorretrievermeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_LabradorRetriever"
     },
     {
       "abr": "lynxmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Lynx"
     },
     {
       "abr": "megaslothmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Megasloth"
     },
     {
       "abr": "monkeymeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Monkey"
     },
     {
       "abr": "muffalomeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Muffalo"
     },
@@ -2780,7 +2780,7 @@
     },
     {
       "abr": "panthermeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Panther"
     },
@@ -2798,7 +2798,7 @@
     },
     {
       "abr": "raccoonmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Raccoon"
     },
@@ -2810,7 +2810,7 @@
     },
     {
       "abr": "rhinocerosmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Rhinoceros"
     },
@@ -2822,7 +2822,7 @@
     },
     {
       "abr": "sheepmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Sheep"
     },
@@ -2858,7 +2858,7 @@
     },
     {
       "abr": "squirrelmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Squirrel"
     },
@@ -2882,55 +2882,55 @@
     },
     {
       "abr": "thrumbomeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Thrumbo"
     },
     {
       "abr": "tortoisemeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Tortoise"
     },
     {
       "abr": "turkeymeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Turkey"
     },
     {
       "abr": "venison",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Deer"
     },
     {
       "abr": "wargmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Warg"
     },
     {
       "abr": "wolfmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Wolf_Timber"
     },
     {
       "abr": "wolfmeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_TM_Dire_WolfR"
     },
     {
       "abr": "yakbeef",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_Yak"
     },
     {
       "abr": "yorkshireterriermeat",
-      "price": 3,
+      "price": -10,
       "category": "Meat",
       "defname": "Meat_YorkshireTerrier"
     },
@@ -3182,25 +3182,25 @@
     },
     {
       "abr": "heart",
-      "price": 833,
+      "price": -10,
       "category": "Natural",
       "defname": "Heart"
     },
     {
       "abr": "kidney",
-      "price": 417,
+      "price": -10,
       "category": "Natural",
       "defname": "Kidney"
     },
     {
       "abr": "liver",
-      "price": 833,
+      "price": -10,
       "category": "Natural",
       "defname": "Liver"
     },
     {
       "abr": "lung",
-      "price": 667,
+      "price": -10,
       "category": "Natural",
       "defname": "Lung"
     },
@@ -3650,121 +3650,121 @@
     },
     {
       "abr": "psytrainer(beckon)",
-      "price": 917,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_Beckon"
     },
     {
       "abr": "psytrainer(berserkpulse)",
-      "price": 1667,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_BerserkPulse"
     },
     {
       "abr": "psytrainer(berserk)",
-      "price": 1417,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_Berserk"
     },
     {
       "abr": "psytrainer(blindingpulse)",
-      "price": 667,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_BlindingPulse"
     },
     {
       "abr": "psytrainer(bulletshield)",
-      "price": 1667,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_BulletShield"
     },
     {
       "abr": "psytrainer(burden)",
-      "price": 417,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_Burden"
     },
     {
       "abr": "psytrainer(chaosskip)",
-      "price": 917,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_ChaosSkip"
     },
     {
       "abr": "psytrainer(flashstorm)",
-      "price": 1417,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_Flashstorm"
     },
     {
       "abr": "psytrainer(focus)",
-      "price": 1167,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_Focus"
     },
     {
       "abr": "psytrainer(invisibility)",
-      "price": 1417,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_Invisibility"
     },
     {
       "abr": "psytrainer(manhunterpulse)",
-      "price": 1667,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_ManhunterPulse"
     },
     {
       "abr": "psytrainer(masschaosskip)",
-      "price": 1667,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_MassChaosSkip"
     },
     {
       "abr": "psytrainer(neuralheatdump)",
-      "price": 667,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_EntropyDump"
     },
     {
       "abr": "psytrainer(painblock)",
-      "price": 417,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_Painblock"
     },
     {
       "abr": "psytrainer(skip)",
-      "price": 1167,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_Skip"
     },
     {
       "abr": "psytrainer(smokepop)",
-      "price": 1167,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_Smokepop"
     },
     {
       "abr": "psytrainer(stun)",
-      "price": 417,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_Stun"
     },
     {
       "abr": "psytrainer(vertigopulse)",
-      "price": 917,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_VertigoPulse"
     },
     {
       "abr": "psytrainer(wallraise)",
-      "price": 1167,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_Wallraise"
     },
     {
       "abr": "psytrainer(waterskip)",
-      "price": 667,
+      "price": -10,
       "category": "Psytrainers",
       "defname": "Psytrainer_Waterskip"
     },
@@ -4119,151 +4119,151 @@
     {
       "abr": "anchovy",
       "price": -10,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawAnchovy"
     },
     {
       "abr": "angelfish",
       "price": -10,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawAngelfish"
     },
     {
       "abr": "anglerfish",
       "price": -10,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawAnglerfish"
     },
     {
       "abr": "bass",
       "price": -10,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawBass"
     },
     {
       "abr": "catfish",
-      "price": 7,
-      "category": "Raw fish",
+      "price": -10,
+      "category": "Meat",
       "defname": "VCEF_RawCatfish"
     },
     {
       "abr": "clownfish",
       "price": -10,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawClownfish"
     },
     {
       "abr": "cod",
       "price": 7,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawCod"
     },
     {
       "abr": "eel",
       "price": -10,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawEel"
     },
     {
       "abr": "goldfish",
       "price": -10,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawGoldfish"
     },
     {
       "abr": "guppy",
       "price": -10,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawGuppy"
     },
     {
       "abr": "haddock",
       "price": -10,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawHaddock"
     },
     {
       "abr": "halibut",
       "price": 12,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawHalibut"
     },
     {
       "abr": "herring",
       "price": -10,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawHerring"
     },
     {
       "abr": "koi",
       "price": -10,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawKoi"
     },
     {
       "abr": "lobster",
       "price": -10,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawLobster"
     },
     {
       "abr": "mackerel",
       "price": -10,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawMackerel"
     },
     {
       "abr": "minnow",
       "price": -10,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawMinnow"
     },
     {
       "abr": "perch",
       "price": -10,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawPerch"
     },
     {
       "abr": "piranha",
       "price": -10,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawPiranha"
     },
     {
       "abr": "pufferfish",
       "price": -10,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawPufferfish"
     },
     {
       "abr": "salmon",
       "price": 17,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawSalmon"
     },
     {
       "abr": "sprat",
       "price": -10,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawSprat"
     },
     {
       "abr": "swordfish",
       "price": 25,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawSwordfish"
     },
     {
       "abr": "trout",
       "price": 3,
-      "category": "Raw fish",
+      "category": "Meat",
       "defname": "VCEF_RawTrout"
     },
     {
       "abr": "tuna",
-      "price": 7,
-      "category": "Raw fish",
+      "price": -10,
+      "category": "Meat",
       "defname": "VCEF_RawTuna"
     },
     {
@@ -5481,49 +5481,49 @@
     {
       "abr": "irfcontractor",
       "price": 692,
-      "category": "TMC Long Range",
+      "category": "Ranged weapons",
       "defname": "Gun_TMC_IRF_Contractor"
     },
     {
       "abr": "irfgoddess",
       "price": 625,
-      "category": "TMC Long Range",
+      "category": "Ranged weapons",
       "defname": "Gun_TMC_IRF_Goddess"
     },
     {
       "abr": "irfoperator",
       "price": 717,
-      "category": "TMC Long Range",
+      "category": "Ranged weapons",
       "defname": "Gun_TMC_IRF_Operator"
     },
     {
       "abr": "irfprotector",
       "price": 533,
-      "category": "TMC Long Range",
+      "category": "Ranged weapons",
       "defname": "Gun_TMC_IRF_Protector"
     },
     {
       "abr": "irfsaboteur",
       "price": 642,
-      "category": "TMC Long Range",
+      "category": "Ranged weapons",
       "defname": "Gun_TMC_IRF_Saboteur"
     },
     {
       "abr": "irfsalvagerod",
       "price": 467,
-      "category": "TMC Long Range",
+      "category": "Ranged weapons",
       "defname": "Gun_TMC_IRF_SalvageRod"
     },
     {
       "abr": "irfukoro",
       "price": 675,
-      "category": "TMC Long Range",
+      "category": "Ranged weapons",
       "defname": "Gun_TMC_IRF_Ukoro"
     },
     {
       "abr": "irfwawa",
       "price": 1108,
-      "category": "TMC Long Range",
+      "category": "Ranged weapons",
       "defname": "Gun_TMC_IRF_WAWA"
     },
     {
