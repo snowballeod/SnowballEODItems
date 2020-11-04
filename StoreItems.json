@@ -1976,7 +1976,7 @@
     },
     {
       "abr": "birdskin",
-      "price": 3,
+      "price": -10,
       "category": "Leathers",
       "defname": "Leather_Bird"
     },
@@ -1988,37 +1988,37 @@
     },
     {
       "abr": "camelhide",
-      "price": 4,
+      "price": -10,
       "category": "Leathers",
       "defname": "Leather_Camel"
     },
     {
       "abr": "chinchillafur",
-      "price": 11,
+      "price": -10,
       "category": "Leathers",
       "defname": "Leather_Chinchilla"
     },
     {
       "abr": "dogleather",
-      "price": 3,
+      "price": -10,
       "category": "Leathers",
       "defname": "Leather_Dog"
     },
     {
       "abr": "elephantleather",
-      "price": 5,
+      "price": -10,
       "category": "Leathers",
       "defname": "Leather_Elephant"
     },
     {
       "abr": "foxfur",
-      "price": 6,
+      "price": -10,
       "category": "Leathers",
       "defname": "Leather_Fox"
     },
     {
       "abr": "guineapigfur",
-      "price": 8,
+      "price": -10,
       "category": "Leathers",
       "defname": "Leather_GuineaPig"
     },
@@ -2042,13 +2042,13 @@
     },
     {
       "abr": "lizardskin",
-      "price": 3,
+      "price": -10,
       "category": "Leathers",
       "defname": "Leather_Lizard"
     },
     {
       "abr": "pantherafur",
-      "price": 5,
+      "price": -10,
       "category": "Leathers",
       "defname": "Leather_Panthera"
     },
@@ -2060,7 +2060,7 @@
     },
     {
       "abr": "pigskin",
-      "price": 3,
+      "price": -10,
       "category": "Leathers",
       "defname": "Leather_Pig"
     },
@@ -2072,7 +2072,7 @@
     },
     {
       "abr": "rhinocerosleather",
-      "price": 7,
+      "price": -10,
       "category": "Leathers",
       "defname": "Leather_Rhinoceros"
     },
@@ -2084,7 +2084,7 @@
     },
     {
       "abr": "wolfskin",
-      "price": 5,
+      "price": -10,
       "category": "Leathers",
       "defname": "Leather_Wolf"
     },
