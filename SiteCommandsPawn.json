@@ -1,0 +1,80 @@
+{
+  "commands": [
+    {
+      "usage": "!fixmypawn",
+      "description": "Attempts to relink your pawn to you. (Doesn't work for Puppeteer)",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!insult [target]",
+      "description": "Makes your pawn insult a random viewer. If a viewer is specified, you'll insult them instead.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!leave",
+      "description": "Makes your pawn leave the colony.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!levelskill <skill> <coins>",
+      "description": "Lets you wager coins to level up a skill of your choosing.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!mypawnbody",
+      "description": "Shows an overview of your pawn's body.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!mypawnclass",
+      "description": "Shows information about your current RimWorld of Magic class. This command will only be usable when RimWorld of Magic is installed.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!mypawngear",
+      "description": "Shows an overview of your pawn's gear.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!mypawnhealth [capacity]",
+      "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!mypawnkills",
+      "description": "Shows your current kill count.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!mypawnneeds",
+      "description": "Shows an overview of your pawn's needs.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!mypawnrelations [viewer]",
+      "description": "Shows your pawn's relationships to other viewers.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!mypawnskills",
+      "description": "Shows your pawn's current skills and their passions.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!mypawnstats [category]",
+      "description": "Shows your current stats within a given category.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!mypawnstory",
+      "description": "Shows your pawn's bio.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!mypawnwork [worktype=priority] [...]",
+      "description": "Shows your pawn's work priorities.",
+      "level": "Anyone"
+    }
+  ],
+  "total": 15
+}

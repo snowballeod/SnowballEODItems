@@ -1,0 +1,55 @@
+{
+  "commands": [
+    {
+      "usage": "!checkuser <viewer>",
+      "description": "Shows the balance of a given user.",
+      "level": "Moderator"
+    },
+    {
+      "usage": "!fixallpawns",
+      "description": "Attempts to relink all pawns to their respective viewers. (Doesn't work for Puppeteer)",
+      "level": "Moderator"
+    },
+    {
+      "usage": "!giveallcoins <coins>",
+      "description": "Gives everyone coins.",
+      "level": "Moderator"
+    },
+    {
+      "usage": "!givecoins <viewer> <coins>",
+      "description": "Gives a viewer coins.",
+      "level": "Moderator"
+    },
+    {
+      "usage": "!karmaround",
+      "description": "Awards all active viewers coins.",
+      "level": "Moderator"
+    },
+    {
+      "usage": "!refreshviewers",
+      "description": "Updates the current list of active viewers.",
+      "level": "Moderator"
+    },
+    {
+      "usage": "!setkarma <viewer> <karma>",
+      "description": "Sets the current karma for a given user.",
+      "level": "Moderator"
+    },
+    {
+      "usage": "!togglecoins",
+      "description": "Toggles coin generation.",
+      "level": "Moderator"
+    },
+    {
+      "usage": "!togglestore",
+      "description": "Toggles whether or not viewers can actively purchase things from the store.",
+      "level": "Moderator"
+    },
+    {
+      "usage": "!unstick",
+      "description": "Removes viewers that were stuck in the \"game paused\" limbo.",
+      "level": "Moderator"
+    }
+  ],
+  "total": 10
+}

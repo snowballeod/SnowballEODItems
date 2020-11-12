@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RimworldParser": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Newrad\\Downloads\\Commands.json\" \"C:\\Users\\Newrad\\Downloads\\StoreItems.json\" \"C:\\Users\\Newrad\\Downloads\\StoreIncidents.json\" \"C:\\Users\\Newrad\\Downloads\\ShopExt.json\""
+    }
+  }
+}

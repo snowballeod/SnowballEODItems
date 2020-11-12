@@ -1,395 +1,483 @@
 {
   "traits": [
     {
-      "abr": "Nudist",
-      "desc": "PAWN enjoys the feeling of freedom that comes from being nude. PAWN can handle clothing, but will be happier without it.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Abrasive",
+      "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
+      "attributes": [],
+      "price": 500
     },
     {
-      "abr": "Bloodlust",
-      "desc": "PAWN gets a rush from hurting people, and never minds the sight of blood or death. PAWN is four times as likely to start a social fight as others.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Annoyingvoice",
+      "description": "Timmy's voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him.",
+      "attributes": [],
+      "price": 500
     },
     {
-      "abr": "Kind",
-      "desc": "PAWN is exceptionally kind. PAWN has a special way of using kind words to brighten someone's day. PAWN never insults others, and never judges people by their appearance.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Ascetic",
+      "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
+      "attributes": [
+        "Artistic meditation focus type disabled.",
+        "Minimal meditation focus type allowed."
+      ],
+      "price": 2000
     },
     {
-      "abr": "Psychopath",
-      "desc": "PAWN has no empathy. The suffering of others doesn't bother PAWN at all. PAWN doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects PAWN. PAWN also feels no mood boost from socializing.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Asexual",
+      "description": "Timmy has no sexual attraction to anyone at all.",
+      "attributes": [],
+      "price": 500
     },
     {
-      "abr": "Cannibal",
-      "desc": "PAWN was taught that eating human meat is wrong and horrible. But one time, long ago, PAWN tried it... and PAWN liked it.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Beautiful",
+      "description": "Timmy is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to him before he even opens his mouth.",
+      "attributes": [
+        "+2.0 beauty"
+      ],
+      "price": 2000
     },
     {
-      "abr": "Abrasive",
-      "desc": "PAWN always says exactly what's on PAWN's mind, especially if it's bugging PAWN. That tends to rub people the wrong way.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Bisexual",
+      "description": "Timmy is romantically attracted to both men and women.",
+      "attributes": [],
+      "price": 500
     },
     {
-      "abr": "Too Smart",
-      "desc": "PAWN is too smart for PAWN's own good. PAWN learns everything much faster than everyone, but can be quite eccentric.",
-      "attrs": "GlobalLearningFactor:0.75, MentalBreakThreshold:0.12",
-      "price": "4000"
+      "name": "Bloodlust",
+      "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others.",
+      "attributes": [
+        "Morbid meditation focus type allowed."
+      ],
+      "price": 2000
     },
     {
-      "abr": "Brawler",
-      "desc": "PAWN likes to fight up close and personal. PAWN's accuracy is greatly increased in melee combat, but PAWN'll be very unhappy if asked to carry a ranged weapon.",
-      "attrs": "MeleeHitChance:4",
-      "price": "4000"
+      "name": "Bodypurist",
+      "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts are unethical and disgusting.",
+      "attributes": [],
+      "price": 500
     },
     {
-      "abr": "Masochist",
-      "desc": "For PAWN, there's something exciting about getting hurt. PAWN doesn't know why, PAWN's just wired differently.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Brawler",
+      "description": "Timmy likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon.",
+      "attributes": [
+        "Shoot frenzy inspiration disabled.",
+        "+4 melee",
+        "-4 shooting",
+        "+4.0 melee hit chance"
+      ],
+      "price": 2000
     },
     {
-      "abr": "Night Owl",
-      "desc": "PAWN likes to be up during the night, and sleep during the day.\\n\\nPAWN gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\\n\\nPAWN doesn't get a mood penalty for being in the dark.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Cannibal",
+      "description": "Timmy was taught that eating human meat is wrong and horrible. But one time, long ago, he tried it... and he liked it.",
+      "attributes": [
+        "Morbid meditation focus type allowed."
+      ],
+      "price": 500
     },
     {
-      "abr": "Greedy",
-      "desc": "PAWN needs a really impressive bedroom. PAWN gets a mood loss if PAWN doesn't get what PAWN wants.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Carefulshooter",
+      "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
+      "attributes": [
+        "+25% aiming time",
+        "+5.0 shooting accuracy"
+      ],
+      "price": 2000
     },
     {
-      "abr": "Jealous",
-      "desc": "For PAWN, it's degrading to have a less impressive bedroom than someone else. PAWN gets a mood loss if any colonist has a more impressive bedroom.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Chemicalfascination",
+      "description": "Timmy is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
+      "attributes": [],
+      "price": 500
     },
     {
-      "abr": "Ascetic",
-      "desc": "PAWN has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. PAWN will become unhappy if if PAWN has a bedroom that's too impressive. PAWN also dislikes fancy food and prefers to eat raw. PAWN never judges others by their appearance.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Chemicalinterest",
+      "description": "Timmy has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
+      "attributes": [],
+      "price": 500
     },
     {
-      "abr": "Gay",
-      "desc": "PAWN is romantically attracted to people of PAWN's own gender.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Creepybreathing",
+      "description": "Timmy breathes heavily all the time, and sweats constantly. People find it creepy.",
+      "attributes": [],
+      "price": 500
     },
     {
-      "abr": "Bisexual",
-      "desc": "PAWN is romantically attracted to both men and women.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Depressive",
+      "description": "Timmy is perenially unhappy. he has trouble sustaining a good mood even when everything is fine.",
+      "attributes": [],
+      "price": 500
     },
     {
-      "abr": "Asexual",
-      "desc": "PAWN has no sexual attraction to anyone at all.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Fastlearner",
+      "description": "Timmy has a knack for learning. he picks things up much faster than others.",
+      "attributes": [
+        "+75% global learning factor"
+      ],
+      "price": 2000
     },
     {
-      "abr": "Annoying Voice",
-      "desc": "PAWN's voice has a particularly grating, nasal quality to it, and PAWN tends to talk in barked, garbled phrases. This predisposes others to dislike PAWN.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Fastwalker",
+      "description": "Timmy likes to be where he's going. he walks quicker than most people.",
+      "attributes": [
+        "+0.20 move speed"
+      ],
+      "price": 2000
     },
     {
-      "abr": "Creepy Breathing",
-      "desc": "PAWN breathes heavily all the time, and sweats constantly. People find it creepy.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Gay",
+      "description": "Timmy is romantically attracted to people of his own gender.",
+      "attributes": [],
+      "price": 500
     },
     {
-      "abr": "Pyromaniac",
-      "desc": "PAWN loves fire. PAWN will never extinguish fires. To relieve stress, PAWN will occasionally go on random fire starting sprees. This happens more often if PAWN's mood is low.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Greatmemory",
+      "description": "Timmy has a fantastic memory for detail. he will learn new skills slightly faster than other people.",
+      "attributes": [
+        "+25% global learning factor"
+      ],
+      "price": 2000
     },
     {
-      "abr": "Wimp",
-      "desc": "PAWN is weak and cowardly. Even a little pain will immobilize PAWN.",
-      "attrs": "PainShockThreshold:-0.6",
-      "price": "4000"
+      "name": "Greedy",
+      "description": "Timmy needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants.",
+      "attributes": [],
+      "price": 500
     },
     {
-      "abr": "Nimble",
-      "desc": "PAWN has remarkable kinesthetic intelligence. PAWN seems to dance around danger with preternatural grace.",
-      "attrs": "MeleeDodgeChance:15",
-      "price": "4000"
+      "name": "Hardworker",
+      "description": "Timmy is a natural hard worker and will finish tasks faster than most.",
+      "attributes": [
+        "+20% global work speed"
+      ],
+      "price": 2000
     },
     {
-      "abr": "Fast Learner",
-      "desc": "PAWN has a knack for learning. PAWN picks things up much faster than others.",
-      "attrs": "GlobalLearningFactor:0.75",
-      "price": "4000"
+      "name": "Hatesdumblabor",
+      "description": "Timmy detests manual labor, feeling that tasks such as cleaning and hauling are beneath him. he will perform such tasks more slowly than others would, and will also carry less per load when required to haul.",
+      "attributes": [
+        "-20% general labor speed",
+        "-25 carrying capacity"
+      ],
+      "price": 500
     },
     {
-      "abr": "Slow Learner",
-      "desc": "PAWN is slow on the uptake. PAWN learns much slower than others.",
-      "attrs": "GlobalLearningFactor:-0.75",
-      "price": "4000"
+      "name": "Industrious",
+      "description": "Timmy has an easy time staying on-task and focused, and gets things done much faster than the average person.",
+      "attributes": [
+        "+35% global work speed"
+      ],
+      "price": 2000
     },
     {
-      "abr": "Undergrounder",
-      "desc": "PAWN has no need to experience the outdoors or light. PAWN will never feel cooped up or get cabin fever, no matter how long PAWN stays inside, and is not bothered by darkness.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Iron-Willed",
+      "description": "Timmy's will is an iron shield. he keeps going through thick and thin, when others broke down long before.",
+      "attributes": [
+        "-18% mental break threshold"
+      ],
+      "price": 2000
     },
     {
-      "abr": "Transhumanist",
-      "desc": "PAWN feels limited in PAWN's feeble human body. PAWN often dreams of being enhanced by artificial body parts.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Jealous",
+      "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. he gets a mood loss if any colonist has a more impressive bedroom.",
+      "attributes": [
+        "Morbid meditation focus type allowed."
+      ],
+      "price": 500
     },
     {
-      "abr": "Body Purist",
-      "desc": "PAWN believes the human body is limited for a reason. To PAWN, artificial body parts are unethical and disgusting.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Jogger",
+      "description": "Timmy always moves with a sense of urgency - so much so that others often fail to keep up.",
+      "attributes": [
+        "+0.40 move speed"
+      ],
+      "price": 3000
     },
     {
-      "abr": "Misandrist",
-      "desc": "PAWN really dislikes and distrusts men.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Kind",
+      "description": "Timmy is exceptionally kind. he has a special way of using kind words to brighten someone's day. he never insults others, and never judges people by their appearance.",
+      "attributes": [],
+      "price": 2000
     },
     {
-      "abr": "Misogynist",
-      "desc": "PAWN really dislikes and distrusts women.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Lazy",
+      "description": "Timmy is a little bit lazy.",
+      "attributes": [
+        "-20% global work speed"
+      ],
+      "price": 500
     },
     {
-      "abr": "Great Memory",
-      "desc": "PAWN has a fantastic memory for detail. PAWN will lose unused skills at half the rate of other people.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Masochist",
+      "description": "For Timmy, there's something exciting about getting hurt. he doesn't know why, he's just wired differently.",
+      "attributes": [
+        "Morbid meditation focus type allowed."
+      ],
+      "price": 2000
     },
     {
-      "abr": "Tough",
-      "desc": "PAWN has thick skin, dense flesh, and durable bones. PAWN takes much less damage than other people from the same blows. PAWN is extremely hard to kill.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Nervous",
+      "description": "Timmy tends to crack under pressure.",
+      "attributes": [
+        "+8% mental break threshold"
+      ],
+      "price": 500
     },
     {
-      "abr": "Tortured Artist",
-      "desc": "PAWN feels alienated and misunderstood by other human beings. PAWN will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Neurotic",
+      "description": "Timmy likes to have things squared away. he will work harder than most to attain this state of affairs, but his nerves can get the better of him.",
+      "attributes": [
+        "+20% global work speed",
+        "+8% mental break threshold"
+      ],
+      "price": 750
     },
     {
-      "abr": "Gourmand",
-      "desc": "PAWN's life revolves around food. PAWN gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Nightowl",
+      "description": "Timmy likes to be up during the night, and sleep during the day.\n\nhe gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nhe doesn't get a mood penalty for being in the dark.",
+      "attributes": [],
+      "price": 1500
     },
     {
-      "abr": "Quick Sleeper",
-      "desc": "PAWN doesn't need as much sleep as the average person. Whether PAWN's sleeping on a bed or on the ground, PAWN will be fully rested in about two thirds the usual time.",
-      "attrs": "RestRateMultiplier:0.5",
-      "price": "4000"
+      "name": "Nimble",
+      "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
+      "attributes": [
+        "+15.0 melee dodge chance",
+        "x10% trap spring chance"
+      ],
+      "price": 3000
     },
     {
-      "abr": "Slowpoke",
-      "desc": "PAWN is always falling behind the group whenever PAWN goes anywhere.",
-      "attrs": "MoveSpeed:-0.2",
-      "price": "4000"
+      "name": "Nudist",
+      "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
+      "attributes": [],
+      "price": 500
     },
     {
-      "abr": "Fast Walker",
-      "desc": "PAWN likes to be where PAWN's going. PAWN walks quicker than most people.",
-      "attrs": "MoveSpeed:0.2",
-      "price": "4000"
+      "name": "Optimist",
+      "description": "Timmy is naturally optimistic about life. It's hard to get him down.",
+      "attributes": [],
+      "price": 3000
     },
     {
-      "abr": "Jogger",
-      "desc": "PAWN always moves with a sense of urgency - so much so that others often fail to keep up.",
-      "attrs": "MoveSpeed:0.4",
-      "price": "4000"
+      "name": "Pessimist",
+      "description": "Timmy tends to look on the bad side of life.",
+      "attributes": [],
+      "price": 1500
     },
     {
-      "abr": "Chemical Fascination",
-      "desc": "PAWN is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. PAWN will ignore directives to not use recreational drugs, and will consume more than a normal person.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Pretty",
+      "description": "Timmy has a pretty face, which predisposes people to like him.",
+      "attributes": [
+        "+1.0 beauty"
+      ],
+      "price": 1500
     },
     {
-      "abr": "Chemical Interest",
-      "desc": "PAWN has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. PAWN will ignore directives to not use recreational drugs, and will consume more than a normal person.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Psychicallydeaf",
+      "description": "Timmy's mind works on a psychic frequency different from everyone else. he just isn't affected by psychic phenomena.",
+      "attributes": [
+        "-100% psychic sensitivity"
+      ],
+      "price": 3000
     },
     {
-      "abr": "Teetotaler",
-      "desc": "PAWN abhors the idea of gaining pleasure from chemicals. PAWN strictly avoids alcohol and recreational drugs.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Psychicallydull",
+      "description": "Timmy's mind is psychically out of tune with others. he isn't as affected by psychic phenomena.",
+      "attributes": [
+        "-50% psychic sensitivity"
+      ],
+      "price": 1500
     },
     {
-      "abr": "Sanguine",
-      "desc": "PAWN is just naturally upbeat about PAWN's situation, pretty much all the time, no matter what it is.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Psychicallyhypersensitive",
+      "description": "Timmy's mind is like a psychic tuning fork. he is extremely sensitive to psychic phenomena.",
+      "attributes": [
+        "+80% psychic sensitivity"
+      ],
+      "price": 3000
     },
     {
-      "abr": "Optimist",
-      "desc": "PAWN is naturally optimistic about life. It's hard to get PAWN down.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Psychicallysensitive",
+      "description": "Timmy's mind is unusually sensitive to psychic phenomena.",
+      "attributes": [
+        "+40% psychic sensitivity"
+      ],
+      "price": 1500
     },
     {
-      "abr": "Pessimist",
-      "desc": "PAWN tends to look on the bad side of life.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Psychopath",
+      "description": "Timmy has no empathy. The suffering of others doesn't bother him at all. he doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects him. he also feels no mood boost from socializing.",
+      "attributes": [
+        "Morbid meditation focus type allowed."
+      ],
+      "price": 1500
     },
     {
-      "abr": "Depressive",
-      "desc": "PAWN is perenially unhappy. PAWN has trouble sustaining a good mood even when everything is fine.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Pyromaniac",
+      "description": "Timmy loves fire. he will never extinguish fires. To relieve stress, he will occasionally go on random fire starting sprees. This happens more often if his mood is low.",
+      "attributes": [
+        "Only mental break \"FireStartingSpree\" allowed."
+      ],
+      "price": 1000
     },
     {
-      "abr": "Iron-Willed",
-      "desc": "PAWN's will is an iron shield. PAWN keeps going through thick and thin, when others broke down long before.",
-      "attrs": "MentalBreakThreshold:-0.18",
-      "price": "4000"
+      "name": "Quicksleeper",
+      "description": "Timmy doesn't need as much sleep as the average person. Whether he's sleeping on a bed or on the ground, he will be fully rested in about two thirds the usual time.",
+      "attributes": [
+        "+50% rest rate multiplier"
+      ],
+      "price": 2000
     },
     {
-      "abr": "Steadfast",
-      "desc": "PAWN is mentally tough and won't break down under stresses that would crack most people.",
-      "attrs": "MentalBreakThreshold:-0.09",
-      "price": "4000"
+      "name": "Sanguine",
+      "description": "Timmy is just naturally upbeat about his situation, pretty much all the time, no matter what it is.",
+      "attributes": [],
+      "price": 2000
     },
     {
-      "abr": "Nervous",
-      "desc": "PAWN tends to crack under pressure.",
-      "attrs": "MentalBreakThreshold:0.08",
-      "price": "4000"
+      "name": "Sickly",
+      "description": "Timmy has an awful immune system. he gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
+      "attributes": [
+        "+4 medical"
+      ],
+      "price": 500
     },
     {
-      "abr": "Volatile",
-      "desc": "PAWN is on a hair-trigger all the time. PAWN is the first to break in any tough situation.",
-      "attrs": "MentalBreakThreshold:0.15",
-      "price": "4000"
+      "name": "Slothful",
+      "description": "Timmy loves idleness and hates anything productive. he moves slowly and rarely stays focused on a task.",
+      "attributes": [
+        "-35% global work speed"
+      ],
+      "price": 250
     },
     {
-      "abr": "Neurotic",
-      "desc": "PAWN likes to have things squared away. PAWN will work harder than most to attain this state of affairs, but PAWN's nerves can get the better of PAWN.",
-      "attrs": "WorkSpeedGlobal:0.2, MentalBreakThreshold:0.08",
-      "price": "4000"
+      "name": "Slowlearner",
+      "description": "Timmy is slow on the uptake. he learns much slower than others.",
+      "attributes": [
+        "-75% global learning factor"
+      ],
+      "price": 250
     },
     {
-      "abr": "Very Neurotic",
-      "desc": "PAWN feels constantly nervous about everything that has to get done. PAWN will work extremely hard to attain this state of affairs, but PAWN's nerves can easily get the better of PAWN.",
-      "attrs": "WorkSpeedGlobal:0.4, MentalBreakThreshold:0.14",
-      "price": "4000"
+      "name": "Staggeringlyugly",
+      "description": "Timmy is staggeringly ugly. his face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at him while conversing.",
+      "attributes": [
+        "-2.0 beauty"
+      ],
+      "price": 250
     },
     {
-      "abr": "Industrious",
-      "desc": "PAWN has an easy time staying on-task and focused, and gets things done much faster than the average person.",
-      "attrs": "WorkSpeedGlobal:0.35",
-      "price": "4000"
+      "name": "Steadfast",
+      "description": "Timmy is mentally tough and won't break down under stresses that would crack most people.",
+      "attributes": [
+        "-9% mental break threshold"
+      ],
+      "price": 3000
     },
     {
-      "abr": "Hard Worker",
-      "desc": "PAWN is a natural hard worker and will finish tasks faster than most.",
-      "attrs": "WorkSpeedGlobal:0.2",
-      "price": "4000"
+      "name": "Super-Immune",
+      "description": "Timmy has a naturally powerful immune system. he will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
+      "attributes": [
+        "+30% immunity gain speed"
+      ],
+      "price": 3000
     },
     {
-      "abr": "Lazy",
-      "desc": "PAWN is a little bit lazy.",
-      "attrs": "WorkSpeedGlobal:-0.2",
-      "price": "4000"
+      "name": "Teetotaler",
+      "description": "Timmy abhors the idea of gaining pleasure from chemicals. he strictly avoids alcohol and recreational drugs.",
+      "attributes": [
+        "Binging on drug mental state disabled.",
+        "Binging on drug mental state disabled."
+      ],
+      "price": 2000
     },
     {
-      "abr": "Slothful",
-      "desc": "PAWN loves idleness and hates anything productive. PAWN moves slowly and rarely stays focused on a task.",
-      "attrs": "WorkSpeedGlobal:-0.35",
-      "price": "4000"
+      "name": "Toosmart",
+      "description": "Timmy is too smart for his own good. he learns everything much faster than everyone, but can be quite eccentric.",
+      "attributes": [
+        "+75% global learning factor",
+        "+12% mental break threshold"
+      ],
+      "price": 1500
     },
     {
-      "abr": "Psychically Hypersensitive",
-      "desc": "PAWN's mind is like a psychic tuning fork. PAWN is extremely sensitive to psychic phenomena.",
-      "attrs": "PsychicSensitivity:0.8",
-      "price": "4000"
+      "name": "Torturedartist",
+      "description": "Timmy feels alienated and misunderstood by other human beings. he will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
+      "attributes": [
+        "Morbid meditation focus type allowed."
+      ],
+      "price": 500
     },
     {
-      "abr": "Psychically Sensitive",
-      "desc": "PAWN's mind is unusually sensitive to psychic phenomena.",
-      "attrs": "PsychicSensitivity:0.4",
-      "price": "4000"
+      "name": "Tough",
+      "description": "Timmy has thick skin, dense flesh, and durable bones. he takes much less damage than other people from the same blows. he is extremely hard to kill.",
+      "attributes": [
+        "x50% incoming damage multiplier"
+      ],
+      "price": 2000
     },
     {
-      "abr": "Psychically Dull",
-      "desc": "PAWN's mind is psychically out of tune with others. PAWN isn't as affected by psychic phenomena.",
-      "attrs": "PsychicSensitivity:-0.5",
-      "price": "4000"
+      "name": "Transhumanist",
+      "description": "Timmy feels limited in his feeble human body. he often dreams of being enhanced by artificial body parts.",
+      "attributes": [],
+      "price": 2000
     },
     {
-      "abr": "Psychically Deaf",
-      "desc": "PAWN's mind works on a psychic frequency different from everyone else. PAWN just isn't affected by psychic phenomena.",
-      "attrs": "PsychicSensitivity:-1",
-      "price": "4000"
+      "name": "Trigger-Happy",
+      "description": "Pew! Pew! Pew! Timmy just likes pulling the trigger. he shoots faster than others, but less accurately.",
+      "attributes": [
+        "-50% aiming time",
+        "-5.0 shooting accuracy"
+      ],
+      "price": 2000
     },
     {
-      "abr": "Careful Shooter",
-      "desc": "PAWN takes more time to aim when shooting. PAWN shoots less often than others, but with more accuracy.",
-      "attrs": "AimingDelayFactor:0.25, ShootingAccuracyPawn:5",
-      "price": "4000"
+      "name": "Ugly",
+      "description": "Timmy is somewhat ugly. This subtly repels others during social interactions.",
+      "attributes": [
+        "-1.0 beauty"
+      ],
+      "price": 500
     },
     {
-      "abr": "Trigger-Happy",
-      "desc": "Pew! Pew! Pew! PAWN just likes pulling the trigger. PAWN shoots faster than others, but less accurately.",
-      "attrs": "AimingDelayFactor:-0.5, ShootingAccuracyPawn:-5",
-      "price": "4000"
+      "name": "Unaffectedbydeath",
+      "description": "Timmy has accepted that death is another part of life and doesn't get upset when learning about a dead ally or seeing one of the undead.",
+      "attributes": [],
+      "price": 2000
     },
     {
-      "abr": "Beautiful",
-      "desc": "PAWN is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to PAWN before PAWN even opens PAWN's mouth.",
-      "attrs": "PawnBeauty:2",
-      "price": "4000"
+      "name": "Undergrounder",
+      "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever, no matter how long he stays inside, and is not bothered by darkness.",
+      "attributes": [
+        "Morbid meditation focus type allowed."
+      ],
+      "price": 2000
     },
     {
-      "abr": "Pretty",
-      "desc": "PAWN has a pretty face, which predisposes people to like PAWN.",
-      "attrs": "PawnBeauty:1",
-      "price": "4000"
+      "name": "Veryneurotic",
+      "description": "Timmy feels constantly nervous about everything that has to get done. he will work extremely hard to attain this state of affairs, but his nerves can easily get the better of him.",
+      "attributes": [
+        "+40% global work speed",
+        "+14% mental break threshold"
+      ],
+      "price": 250
     },
     {
-      "abr": "Ugly",
-      "desc": "PAWN is somewhat ugly. This subtly repels others during social interactions.",
-      "attrs": "PawnBeauty:-1",
-      "price": "4000"
+      "name": "Volatile",
+      "description": "Timmy is on a hair-trigger all the time. he is the first to break in any tough situation.",
+      "attributes": [
+        "+15% mental break threshold"
+      ],
+      "price": 500
     },
     {
-      "abr": "Staggeringly Ugly",
-      "desc": "PAWN is staggeringly ugly. PAWN's face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at PAWN while conversing.",
-      "attrs": "PawnBeauty:-2",
-      "price": "4000"
-    },
-    {
-      "abr": "Super-Immune",
-      "desc": "PAWN has a naturally powerful immune system. PAWN will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
-      "attrs": "ImmunityGainSpeed:0.3",
-      "price": "4000"
-    },
-    {
-      "abr": "Sickly",
-      "desc": "PAWN has an awful immune system. PAWN gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
-      "attrs": "",
-      "price": "4000"
+      "name": "Wimp",
+      "description": "Timmy is weak and cowardly. Even a little pain will immobilize him.",
+      "attributes": [
+        "-60% pain shock threshold"
+      ],
+      "price": 500
     }
   ],
-  "total": 65
+  "total": 63
 }

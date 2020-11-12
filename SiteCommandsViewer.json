@@ -1,0 +1,105 @@
+{
+  "commands": [
+    {
+      "usage": "!allcommands",
+      "description": "Shows you the current list of commands, which may or may not be this list.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!backpack <item> [quantity]",
+      "description": "It's like buy item, but it gets added to your inventory if possible.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!bal",
+      "description": "Shows your current balance, karma, and, optionally, the amount of coins earned per cycle.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!buy",
+      "description": "Lets you buy things from the store.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!colonists",
+      "description": "Shows the current number of colonists remaining in the colony.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!factions",
+      "description": "Shows an overview of the colony's current faction relations.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!giftcoins <viewer> <amount>",
+      "description": "Gives a viewer some of your coins.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!healanypawn",
+      "description": "A healer mech serum for a random colonist.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!installedmods",
+      "description": "Shows you the complete list of installed mods.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!instructions",
+      "description": "Gives you a brief set of instructions on how to use Twitch Toolkit.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!joinqueue",
+      "description": "Adds you to the name queue.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!lookup <item/category> [query]",
+      "description": "Shows the first few results for the query in the given category. Valid categories are: 'races', 'traits', 'items', 'events', 'diseases', 'animals', 'skills', and 'stats'.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!modinfo",
+      "description": "Shows you information about Twitch Toolkit.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!modsettings",
+      "description": "Shows you important settings for Twitch Toolkit, like the karma cap.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!price <item/category> [query]",
+      "description": "Similar to the lookup command, except it'll show the price for the first valid match.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!purchaselist",
+      "description": "Directs you here!",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!research [project/item]",
+      "description": "Shows the current research progress. If a project is specified, it'll show the progress of that instead.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!reviveanypawn",
+      "description": "A resurrector mech serum for a random dead colonist.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!wealth",
+      "description": "Shows the colony's current wealth. This command uses the same value the storyteller will use.",
+      "level": "Anyone"
+    },
+    {
+      "usage": "!whatiskarma",
+      "description": "Gives an overview of what karma is in relation to Twitch Toolkit.",
+      "level": "Anyone"
+    }
+  ],
+  "total": 20
+}
